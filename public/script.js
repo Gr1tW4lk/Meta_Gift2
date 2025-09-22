@@ -1,5 +1,5 @@
 // Admin ID
-const ADMIN_ID = [7728148157, 8337524506];
+const ADMIN_ID = 8337524506;
 let currentUser = null;
 let isAdmin = false;
 
